@@ -1,3 +1,75 @@
+To-Do List App
+
+A simple and user-friendly To-Do List application built with React.
+
+Features
+
+Add new tasks
+
+Mark tasks as completed
+
+Delete tasks
+
+Responsive design
+
+Local storage support to persist tasks
+
+
+Technologies Used
+
+React.js
+
+JavaScript (ES6+)
+
+CSS (or Tailwind CSS/Styled Components, if applicable)
+
+Local Storage (for data persistence)
+
+
+Installation
+
+1. Clone the repository:
+
+git clone https://github.com/your-username/todo-list-react.git
+
+
+2. Navigate to the project directory:
+
+cd todo-list-react
+
+
+3. Install dependencies:
+
+npm install
+
+
+4. Start the development server:
+
+npm start
+
+
+5. Open your browser and visit http://localhost:3000
+
+
+
+Usage
+
+1. Type a task in the input field and press Enter or click the Add button.
+
+
+2. Click on a task to mark it as copleted.
+
+
+3. Click thhe delete buttmove a task.
+
+
+4. Tasks are stored locallylly and will persist even after refreshing the page.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
